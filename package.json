@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Full ecommerce site using MERN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "export NODE_ENV=DEVELOPMENT && nodemon backend/server.js",
+    "prod": "export NODE_ENV=PRODUCTION && nodemon backend/server.js",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "author": "Julian Ayllon",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cloudinary": "^1.37.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.2",
+    "nodemailer": "^6.9.3",
+    "stripe": "^13.3.0",
+    "validator": "^13.9.0"
+  }
+}
