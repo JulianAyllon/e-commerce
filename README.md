@@ -8,8 +8,6 @@ Developed a fast, scalable, fullstack application using React for the front-end,
 - JWToken & cookie storage
 - Heroku deployment
 
-<u>Routes visualization</u>
-
 
 
 Click here to watch the demo on Youtube!
