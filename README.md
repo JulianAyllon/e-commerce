@@ -18,5 +18,5 @@ Developed a fast, scalable, fullstack application using React for the front-end,
 
 
 
-Click here to watch the demo on Youtube!
+Click here to watch a quick demo on Youtube!
 [![Watch the video demo](https://img.youtube.com/vi/OtmlYCCJXSM/maxresdefault.jpg)](https://youtu.be/OtmlYCCJXSM)
